@@ -55,4 +55,4 @@ def arrayHandler(items):  # handle tuple and list
 # input
 value = {'dear': 'recruiter'}
 if __name__ == "__main__":
-    main(value)
+    print(main(value))
